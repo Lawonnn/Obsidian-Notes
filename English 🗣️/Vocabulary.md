@@ -130,4 +130,10 @@ a disappoint situation
 # pick our way
 go carefully
 # make out
-Have diferent menaing, but one we will use more is "to distinguish"
+Have different meaning, but one we will use more is "to distinguish"
+
+# crashed on my bed
+a common way to say u sleep on your bed
+
+# wiped out
+being very tired, extremely exhausted 
