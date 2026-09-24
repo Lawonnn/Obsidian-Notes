@@ -1,3 +1,0 @@
-- **Audience Awareness:** The most important aspect of documentation is tailoring it to the intended audience. How you document your work for internal review will be different from a final report delivered to a client.
-- **Essential Characteristics:** Good documentation is defined by three key features: a clear **Overview**, a logical **Structure**, and overall **Clarity**. The goal is to make information easy to understand and any described actions easy to reproduce.
-- **Guiding Principles:** To create effective documentation, you should put yourself in the reader's position, avoid repetition and ambiguity, and ensure the content is easy to follow.
