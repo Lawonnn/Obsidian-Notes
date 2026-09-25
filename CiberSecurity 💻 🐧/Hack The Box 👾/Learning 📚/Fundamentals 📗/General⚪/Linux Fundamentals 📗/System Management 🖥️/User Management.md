@@ -27,10 +27,10 @@ Creation and deletion are handled via high-level (interactive) or low-level (scr
 
   
 
-|**Action**|**High-Level Tool**|**Low-Level Utility**|**Key Flags / Examples**|
-|---|---|---|---|
-|**Create User**|**`adduser`**|**`useradd`**|**`sudo useradd -m -s /bin/bash <user>`**<br><br>  <br>  <br><br>• **`-m`**: Creates home directory.<br><br>  <br>  <br><br>• **`-s`**: Sets default shell.|
-|**Delete User**|**`deluser`**|**`userdel`**|**`sudo deluser --remove-home <user>`**<br><br>  <br>  <br><br>• **`--remove-home`**: Purges `/home/<user>`.<br><br>  <br>  <br><br>**`sudo userdel -r -f <user>`**<br><br>  <br>  <br><br>• **`-r`**: Recursively deletes home dir.<br><br>  <br>  <br><br>• **`-f`**: Forces removal if active.|
+| **Action**      | **High-Level Tool** | **Low-Level Utility** | **Key Flags / Examples**                                                                                                                                                                                                                                                                          |
+| --------------- | ------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Create User** | **`adduser`**       | **`useradd`**         | **`sudo useradd -m -s /bin/bash <user>`**<br><br>  <br>  <br><br>• **`-m`**: Creates home directory.<br><br>  <br>  <br><br>• **`-s`**: Sets default shell.                                                                                                                                       |
+| **Delete User** | **`deluser`**       | **`userdel`**         | **`sudo deluser --remove-home <user>`**<br><br>  <br>  <br><br>• **`--remove-home`**: Purges `/home/<user>`.<br><br>  <br>  <br><br>**`sudo userdel -r -f <user>`**<br><br>  <br>  <br><br>• **`-r`**: Recursively deletes home dir.<br><br>  <br>  <br><br>• **`-f`**: Forces removal if active. |
 
 ## 3. Managing Groups & Memberships
 
