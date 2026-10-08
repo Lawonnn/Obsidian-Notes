@@ -1,0 +1,6 @@
+- The term will have a lot of meanings, but in this case we will say that is the effort to preform certain action or achieve a specific goal
+- Before we decided to achieve a specific goal, we must become clear our desires. We should explain ourselves what we want and how it must feel to achieve our goal. This process can also be thought of as dreaming, where we imagine a situation we would like to be in. Unfortunately, most people stop dreaming shortly after they start because they do not see a way to get there.
+- Desire is very dependent on the belief in it
+
+>[!About Fear]
+>It is interesting that, especially in our field of penetration testing, many students react paradoxically. Most of those who feel a particular "fear" during learning are unaware of what they are afraid of. They believe they are afraid of failing and not learning something well enough, but sometimes as soon as they get stuck on a subject that is not easy for them, they give up. Nevertheless, is not that the failure they were afraid of all along and wanted to avoid by all means? Actually, yes. However, these types of students find it easier to give up and fail than to keep learning and improving. **Getting better inevitably happens when we keep practicing and trying different approaches.**

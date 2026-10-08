@@ -1,0 +1,1 @@
+In bash, a variable is just a name with a value. In bash, all is text, it doesn't have data types
