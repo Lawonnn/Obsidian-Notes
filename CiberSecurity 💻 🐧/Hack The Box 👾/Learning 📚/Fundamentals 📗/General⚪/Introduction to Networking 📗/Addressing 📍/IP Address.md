@@ -1,5 +1,0 @@
-**Key Concepts:**
-
-- **IPv4 Address Structure:** An IPv4 address is a unique 32-bit number used to identify a device on a network. It is written as four decimal numbers (0-255), called octets, separated by dots (e.g., `192.168.10.39`). Each address is split into a **network part** and a **host part**.
-- **Subnet Mask & CIDR:** A **subnet mask** (e.g., `255.255.255.0`) is used to define which portion of the IP address represents the network and which represents the host. **Classless Inter-Domain Routing (CIDR)** notation is a shorthand for this, using a suffix like `/24` to indicate that the first 24 bits identify the network.
-- **Special IP Addresses:** Within a network range, certain addresses have specific functions. The first address is the **network address** (identifies the network itself), and the last is the **broadcast address** (sends a message to all hosts on the network). The **default gateway** is the router's IP, used to communicate with external networks.

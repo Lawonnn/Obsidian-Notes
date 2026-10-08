@@ -1,4 +1,0 @@
-An important aspect to be considered in the learning process is progress. In order to see our progress, two specific states are compared, including a specific time window between the learning process. In other words, we compare our knowledge from the past with the present and try to keep track of the progress to give ourselves the confirmation that we have achieved something new.
-
-> [!success]
-> We only gain height by going uphill. Going uphill is always exhausting, and we may slip and slide a little bit down again. What is essential here is to keep moving constantly. How fast we want to reach a defined height depends entirely on our ambition. Whether we only take one step a day or ten steps a day only plays a role in the duration.

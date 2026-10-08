@@ -1,2 +1,0 @@
-- The hacker's way of thinking, "Think Out the Box"
-- But first, we have to understand the way of thinking we currently use
