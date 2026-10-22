@@ -22,7 +22,7 @@ Example:
 | ..... | ......    | .....   | ..... |
 
 ## Structured Query Language (SQL)
-It's a standar language to hande relational data bases. SQL is everywhere
+It's a standar language to handle relational data bases. SQL is everywhere
 ### What we can do?
 - Create and modify data bases
 - Search information
